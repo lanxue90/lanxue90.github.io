@@ -1,0 +1,22 @@
+sphinx
+======
+
+install ::
+
+   pip3 install sphinx sphinx_rtd_theme
+   sphinx-quickstart -q -p notebook -a brook
+
+make ::
+
+   make html
+
+alsdjas
+d
+s a
+d 
+as
+ 
+dsa
+ d   sad s
+  d
+  as d 
